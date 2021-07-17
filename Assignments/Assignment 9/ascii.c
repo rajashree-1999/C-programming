@@ -1,7 +1,7 @@
 //WAP to display ASCII value
 #include<stdio.h>
 int main()
-{   char name[0];
+{   char name[10];
 
     printf("\n\n\tASCII VALUE\n\t___________________________________\n\tEnter your name : ");
     scanf("%s",&name);
