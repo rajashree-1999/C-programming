@@ -25,7 +25,7 @@ int main()
             printf("\n\tThe given number is positive");
             break;
      default:
-             printf("\n\tThe given number is zero");
+             printf("\n\tError");
              break;
     }
     printf("\n\n\nSuccessfully Executed...");
